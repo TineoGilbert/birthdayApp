@@ -1,6 +1,10 @@
 # Birthday App
 
-Básica aplicación creada con React para mostrar los cumpleaños disponibles.
+Básica aplicación creada con React para mostrar los cumpleaños disponibles. / Basic application created with React to show available birthdays.
+
+![](src/img/birthday1.png)
+
+![](src/img/birthday2.png)
 
 # Getting Started with Create React App
 
